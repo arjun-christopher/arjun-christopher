@@ -15,7 +15,7 @@
 ### Connect with me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/arjun-christopher" target="_blank">
+  <a href="https://linkedin.com/in/arjun-christopher-2330a1327/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/arjun_christopher_" target="_blank">
