@@ -21,6 +21,9 @@
   <a href="https://instagram.com/arjun_christopher_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+  <a href="arjunchristopher2004@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="30" width="40" />
+  </a>
 </p>
 
 ---
