@@ -74,9 +74,9 @@
 ### GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-christopher&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-christopher&show_icons=true&locale=en&layout=compact&bg_color=00000000&theme=transparent" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjun-christopher&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arjun-christopher&show_icons=true&locale=en&bg_color=00000000&theme=transparent" alt="GitHub Stats" />
 </p>
