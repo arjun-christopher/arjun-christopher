@@ -1,8 +1,8 @@
+<h1 align="center">Arjun Christopher</h1>
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
-
-<h1 align="center">Arjun Christopher</h1>
 
 <p align="center">
   I am a third-year B.Tech Information Technology student at Puducherry Technological University with a strong interest in artificial intelligence, machine learning, and game development.<br>
