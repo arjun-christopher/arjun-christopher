@@ -1,4 +1,4 @@
-<h1 align="center">𝒜𝓇𝒿𝓊𝓃 𝒞𝒽𝓇𝒾𝓈𝓉𝑜𝓅𝒽𝑒𝓇</h1>
+<h1 align="center">ᴀʀᴊᴜɴ ᴄʜʀɪsᴛᴏᴘʜᴇʀ</h1>
 
 <div align="center">
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQ2ejJpbGltb29obGdsdHNpbW9pNGg0eTJnZWgxaTJpb2F3YmJ1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif"/>
