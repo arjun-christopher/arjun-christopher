@@ -1,4 +1,8 @@
-<h1 align="center">Arjun Christopher</h1>
+<p align="center">
+  <a href="https://www.flamingtext.com/" target="_blank">
+    <img src="https://blog.flamingtext.com/blog/2025/06/02/flamingtext_com_1748835493_576191926.png" alt="Arjun Christopher" />
+  </a>
+</p>
 
 <div align="center">
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQ2ejJpbGltb29obGdsdHNpbW9pNGg0eTJnZWgxaTJpb2F3YmJ1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif"/>
