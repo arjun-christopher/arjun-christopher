@@ -1,8 +1,4 @@
-<h1 align="center">Arjun Christopher</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Developer-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Game%20Dev-Unity-informational?style=flat-square" />
-</p>
+<h1 align="center", style="color: red;">Arjun Christopher</h1>
 
 <div align="center">
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQ2ejJpbGltb29obGdsdHNpbW9pNGg0eTJnZWgxaTJpb2F3YmJ1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif"/>
