@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arjunchristopher2004@gmail.com" target="_blank">
-    <img width="30" height="30" src="https://img.icons8.com/fluency/240/gmail-new.png" alt="Gmail"/>
+    <img src="https://img.icons8.com/fluency/240/gmail-new.png" alt="Gmail" width="35" height="35"/>
   </a>
 </p>
 
