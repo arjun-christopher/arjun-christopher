@@ -6,7 +6,7 @@
 
 <p align="center">
   I am a third-year B.Tech Information Technology student at Puducherry Technological University with a strong interest in artificial intelligence, machine learning, and game development.<br>
-  I am currently focusing on building practical skills through small projects and exploring opportunities in AI/ML and cloud computing.<br>
+  I am currently focusing on building practical skills through small projects and exploring opportunities in AI/ML.<br>
   Passionate about learning and innovation, I aim to contribute meaningfully to the tech community by collaborating on real-world projects and continuously expanding my knowledge.
 </p>
 
