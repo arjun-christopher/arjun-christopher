@@ -71,7 +71,7 @@
 ### Top Contributed Repo:
 
 <p align="center">
-  ![](https://github-contributor-stats.vercel.app/api?username=arjun-christopher&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+  <img src="https://github-contributor-stats.vercel.app/api?username=arjun-christopher&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
 </p>
 
 ---
