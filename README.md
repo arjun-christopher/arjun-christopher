@@ -68,6 +68,14 @@
 
 ---
 
+### Top Contributed Repo:
+
+<p align="center">
+  ![](https://github-contributor-stats.vercel.app/api?username=arjun-christopher&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+</p>
+
+---
+
 ### GitHub Stats:
 
 <p align="center">
@@ -81,10 +89,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-christopher&show_icons=true&locale=en&bg_color=00000000&theme=transparent" alt="arjun-christopher" />
 </p>
-
----
-
-
-### Top Contributed Repo:
-
-![](https://github-contributor-stats.vercel.app/api?username=arjun-christopher&limit=5&theme=transparent&combine_all_yearly_contributions=true)
