@@ -81,12 +81,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-christopher&show_icons=true&locale=en&bg_color=00000000&theme=transparent" alt="arjun-christopher" />
 </p>
-
----
-
-### Contributions:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjun-christopher/arjun-christopher/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arjun-christopher/arjun-christopher/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arjun-christopher/arjun-christopher/output/pacman-contribution-graph.svg">
-</picture>
