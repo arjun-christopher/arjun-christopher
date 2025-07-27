@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  I am a third-year B.Tech Information Technology student at Puducherry Technological University with a strong interest in artificial intelligence, machine learning, and game development.<br>
+  I am a final year B.Tech Information Technology student at Puducherry Technological University with a strong interest in artificial intelligence, machine learning, and game development.<br>
   I am currently focusing on building practical skills through small projects and exploring opportunities in AI/ML.<br>
   Passionate about learning and innovation, I aim to contribute meaningfully to the tech community by collaborating on real-world projects and continuously expanding my knowledge.
 </p>
@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/480/c-programming.png" alt="C" width="44" height="44"/>
+    <img src="https://img.icons8.com/color/480/c-programming.png" alt="C" width="42" height="42"/>
   </a>&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
