@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/560/c-programming.png" alt="C" width="42" height="42"/>
+    <img width="560" height="560" src="https://img.icons8.com/color/560/c-programming.png" alt="C"/>
   </a>&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
