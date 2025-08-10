@@ -59,7 +59,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/20A5C9/480/react-native.png" alt="Figma" width="40" height="40"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="Figma" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/480/tailwind_css.png" alt="Tailwind CSS" width="40" height="40"/>
