@@ -64,6 +64,9 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/480/tailwind_css.png" alt="Tailwind CSS" width="40" height="40"/>
   </a>&nbsp;
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="40" height="40"/>
+  </a>&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="React" width="40" height="40"/>
   </a>&nbsp;
