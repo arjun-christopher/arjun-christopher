@@ -1,6 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=ARJUN%20CHRISTOPHER&fontSize=50&fontColor=1B3B6F&fontAlignY=50" />
+<svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes glow {
+      0% { text-shadow: 0 0 10px #00D9FF, 0 0 20px #00D9FF; }
+      50% { text-shadow: 0 0 20px #00D9FF, 0 0 30px #00D9FF, 0 0 40px #00D9FF; }
+      100% { text-shadow: 0 0 10px #00D9FF, 0 0 20px #00D9FF; }
+    }
+    .glow-text {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 50px;
+      font-weight: bold;
+      fill: #1B3B6F;
+      animation: glow 2s ease-in-out infinite;
+    }
+  </style>
+  <text x="50%" y="60%" text-anchor="middle" class="glow-text">ARJUN CHRISTOPHER</text>
+</svg>
 
 </div>
 
