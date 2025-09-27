@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=1000&pause=1000&color=1B3B6F&center=true&vCenter=true&repeat=false&width=800&height=80&lines=ARJUN+CHRISTOPHER" style="filter: drop-shadow(0 0 10px #00D9FF);" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=1000&pause=1000&color=1B3B6F&center=true&vCenter=true&repeat=false&width=800&height=80&lines=ARJUN+CHRISTOPHER" style="filter: drop-shadow(0 0 10px #00D9FF);" />
 
 </div>
 
