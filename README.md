@@ -1,10 +1,8 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com/api?font=Orbitron&weight=900&size=45&color=1B3B6F&center=true&vCenter=true&lines=Arjun+Christopher" alt="Arjun Christopher"/>
+<img src="https://readme-typing-svg.demolab.com/api?font=Orbitron&weight=900&size=42&color=1B3B6F&center=true&lines=Arjun%20Christopher" alt="Arjun Christopher"/>
 
 </p>
-
-
 
 <p align="center">
 
