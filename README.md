@@ -4,31 +4,15 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineer;AI%2FML+Enthusiast;Passionate+Game+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineer;AI%2FML+Enthusiast;Final+Year+IT+Student;Passionate+Game+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
 
-</div>
-
-<div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQ2ejJpbGltb29obGdsdHNpbW9pNGg0eTJnZWgxaTJpb2F3YmJ1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif"/>
 </div>
 
 ## About Me
 
 > **Final Year B.Tech IT Student @ Puducherry Technological University**
 
-I'm a passionate software engineer specializing in **Artificial Intelligence**, **Machine Learning**, and **Game Development**. Currently focused on building scalable solutions and exploring cutting-edge technologies in AI/ML domain.
-
-### Current Focus
-- **Research & Development**: AI/ML algorithms and applications
-- **Project Development**: Building practical, real-world solutions
-- **Open Source**: Contributing to community-driven projects
-- **Game Development**: Creating immersive gaming experiences
-
-### Professional Goals
-- Contributing to innovative tech solutions
-- Collaborating on impactful open-source projects  
-- Expanding expertise in emerging technologies
-- Building a strong developer community presence
+I am a passionate software engineer specializing in Artificial Intelligence and Machine Learning, with a strong interest in emerging technologies. I focus on building scalable solutions and exploring rapid development with AI-powered tools. While I am learning Unity game development at a tutorial level as a creative pursuit, my primary focus remains on AI/ML and innovative software solutions.
 
 ## Connect With Me
 
