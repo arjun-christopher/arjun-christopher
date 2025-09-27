@@ -1,22 +1,6 @@
 <div align="center">
 
-<svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @keyframes glow {
-      0% { text-shadow: 0 0 10px #00D9FF, 0 0 20px #00D9FF; }
-      50% { text-shadow: 0 0 20px #00D9FF, 0 0 30px #00D9FF, 0 0 40px #00D9FF; }
-      100% { text-shadow: 0 0 10px #00D9FF, 0 0 20px #00D9FF; }
-    }
-    .glow-text {
-      font-family: 'Orbitron', sans-serif;
-      font-size: 50px;
-      font-weight: bold;
-      fill: #1B3B6F;
-      animation: glow 2s ease-in-out infinite;
-    }
-  </style>
-  <text x="50%" y="60%" text-anchor="middle" class="glow-text">ARJUN CHRISTOPHER</text>
-</svg>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=1000&pause=1000&color=1B3B6F&center=true&vCenter=true&repeat=false&width=800&height=80&lines=ARJUN+CHRISTOPHER" style="filter: drop-shadow(0 0 10px #00D9FF);" />
 
 </div>
 
