@@ -1,8 +1,9 @@
-<p align="center">
+<h1 align="center">
 
-<img src="https://readme-typing-svg.demolab.com/api?font=Orbitron&weight=900&size=42&color=1B3B6F&center=true&lines=Arjun%20Christopher" alt="Arjun Christopher"/>
+<img src="https://raw.githubusercontent.com/arjun-christopher/assets/main/name.svg" alt="Arjun Christopher" />
 
-</p>
+</h1>
+
 
 <p align="center">
 
