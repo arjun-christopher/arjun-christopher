@@ -1,14 +1,12 @@
-<p align="center">
+<p align="center"> 
 
-  <img src="https://readme-typing-svg.demolab.com?font=Big+Shoulders+Display&weight=900&size=40&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=false&width=800&lines=ARJUN+CHRISTOPHER" alt="Arjun Christopher"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0D0D0D&height=180&section=header&text=Arjun%20Christopher&fontSize=55&fontColor=00FFFF&animation=twinkling&fontAlignY=35" /> 
 
 </p>
 
-
-
 <p align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=800&lines=Software+Engineer;AI%2FML+Enthusiast;Passionate+Game+Developer;Full+Stack+Developer" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=800&lines=Software+Engineer;AI%2FML+Enthusiast;Passionate+Game+Developer;Full+Stack+Developer" alt="Typing SVG"/>
 
 </p>
 
