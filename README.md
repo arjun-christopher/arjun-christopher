@@ -1,8 +1,9 @@
 <p align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0D0D0D&height=180&section=header&text=⚡Arjun%20Christopher⚡&fontSize=55&fontColor=00FFFF&animation=twinkling&fontAlignY=35" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=50&duration=3000&pause=500&color=00BFFF;FF00FF;00FFFF&center=true&multiline=false&lines=Arjun+Christopher" alt="Gradient Name"/>
 
 </p>
+
 
 
 <p align="center">
