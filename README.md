@@ -1,8 +1,9 @@
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0D0D0D&height=180&section=header&text=Arjun%20Christopher&fontSize=55&fontColor=00FFFF&animation=twinkling&fontAlignY=35&background=00000000" />
+<img src="https://readme-typing-svg.demolab.com/api?font=Orbitron&weight=900&size=45&color=1B3B6F&center=true&vCenter=true&lines=Arjun+Christopher" alt="Arjun Christopher"/>
 
 </p>
+
 
 
 <p align="center">
