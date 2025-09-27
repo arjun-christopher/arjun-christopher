@@ -1,9 +1,8 @@
-<h1 align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/arjun-christopher/assets/main/name.svg" alt="Arjun Christopher" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a23,100:1e1e3f&height=200&section=header&text=ARJUN%20CHRISTOPHER&fontSize=50&fontColor=00d9ff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20|%20AI/ML%20Enthusiast&descAlignY=60&descSize=18" />
 
-</h1>
-
+</div>
 
 <p align="center">
 
