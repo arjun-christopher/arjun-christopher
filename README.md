@@ -2,11 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Arjun%20Christopher&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&reversal=false" />
 </p>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=50&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineer;AI%2FML+Enthusiast;Passionate+Game+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=180&lines=Software+Engineer;AI%2FML+Enthusiast;Passionate+Game+Developer;Full+Stack+Developer" alt="Typing SVG"/>
+</p>
 
 ## About Me
 
