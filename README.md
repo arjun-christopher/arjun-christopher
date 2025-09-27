@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=50&duration=3000&pause=500&color=00BFFF;FF00FF;00FFFF&center=true&multiline=false&lines=Arjun+Christopher" alt="Gradient Name"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=35&duration=3000&pause=500&color=00BFFF;FF00FF;00FFFF&center=true&multiline=false&lines=Arjun+Christopher" alt="Gradient Name"/>
 
 </p>
 
