@@ -1,8 +1,9 @@
-<p align="center"> 
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0D0D0D&height=180&section=header&text=Arjun%20Christopher&fontSize=55&fontColor=00FFFF&animation=twinkling&fontAlignY=35" /> 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0D0D0D&height=180&section=header&text=Arjun%20Christopher&fontSize=55&fontColor=00FFFF&animation=twinkling&fontAlignY=35&background=00000000" />
 
 </p>
+
 
 <p align="center">
 
