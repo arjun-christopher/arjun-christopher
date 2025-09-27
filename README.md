@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Arjun%20Christopher&width=800&height=200&color1=00BFFF&color2=0000FF" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Arjun%20Christopher&width=800&height=200&color1=00BFFF&color2=0000FF&background=00000000" />
 </p>
 
 <div align="center">
@@ -95,11 +95,11 @@ I'm a passionate software engineer specializing in **Artificial Intelligence**, 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjun-christopher&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/arjun-christopher)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjun-christopher&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/arjun-christopher)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-christopher&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/arjun-christopher)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-christopher&layout=compact&theme=transparent&hide_border=true)](https://github.com/arjun-christopher)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=arjun-christopher&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=arjun-christopher&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
