@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineer;AI%2FML+Enthusiast;Passionate+Game+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineer;AI%2FML+Enthusiast;Passionate+Game+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,8 +30,6 @@ I'm a passionate software engineer specializing in **Artificial Intelligence**, 
 - Expanding expertise in emerging technologies
 - Building a strong developer community presence
 
----
-
 ## Connect With Me
 
 <div align="center">
@@ -41,8 +39,6 @@ I'm a passionate software engineer specializing in **Artificial Intelligence**, 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arjun_christopher_)
 
 </div>
-
----
 
 ## Tech Stack & Tools
 
@@ -89,8 +85,6 @@ I'm a passionate software engineer specializing in **Artificial Intelligence**, 
 
 </div>
 
----
-
 ## GitHub Analytics
 
 <div align="center">
@@ -102,8 +96,6 @@ I'm a passionate software engineer specializing in **Artificial Intelligence**, 
 [![GitHub Streak](https://streak-stats.demolab.com?user=arjun-christopher&theme=transparent)](https://git.io/streak-stats)
 
 </div>
-
----
 
 <div align="center">
 
