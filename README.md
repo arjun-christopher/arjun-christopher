@@ -1,10 +1,8 @@
 <p align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=35&duration=3000&pause=500&color=00BFFF;FF00FF;00FFFF&center=true&multiline=false&lines=Arjun+Christopher" alt="Gradient Name"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=false&width=800&lines=Arjun+Christopher" alt="Typing Name"/>
 
 </p>
-
-
 
 <p align="center">
 
