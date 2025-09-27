@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Arjun%20Christopher&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&reversal=false" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=2500&pause=500&color=00FF00&center=true&vCenter=true&multiline=false&width=800&lines=>_Arjun_Christopher" alt="Terminal Style Name"/>
 </p>
 
 <p align="center">
