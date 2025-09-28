@@ -82,9 +82,3 @@ I am a passionate software engineer specializing in Artificial Intelligence and 
 [![GitHub Streak](https://streak-stats.demolab.com?user=arjun-christopher&theme=transparent)](https://git.io/streak-stats)
 
 </div>
-
-<div align="center">
-
- [![HitCount](https://hits.dwyl.com/arjun-christopher.svg?style=flat-square&show=unique)](http://hits.dwyl.com/arjun-christopher)
-
-</div>
