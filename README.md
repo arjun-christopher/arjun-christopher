@@ -85,6 +85,6 @@ I am a passionate software engineer specializing in Artificial Intelligence and 
 
 <div align="center">
 
-![Views Counter](https://views-counter.vercel.app/badge?pageId=arjun-christopher&leftColor=000000&rightColor=0a23db&type=total&label=PROFILE%20VIEWS&style=upper&sessionExpire=60)
+ [![HitCount](https://hits.dwyl.com/arjun-christopher.svg?style=flat-square&show=unique)](http://hits.dwyl.com/arjun-christopher)
 
 </div>
