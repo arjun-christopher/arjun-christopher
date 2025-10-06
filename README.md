@@ -20,7 +20,7 @@
 
 ## About Me
 
-> **Final Year B.Tech IT Student @ Puducherry Technological University**
+> **Final Year B.Tech IT Student at Puducherry Technological University**
 
 I am a passionate software engineer specializing in Artificial Intelligence and Machine Learning, with a strong interest in emerging technologies. I focus on building scalable solutions and exploring rapid development with AI-powered tools. While I am learning Unity game development at a tutorial level as a creative pursuit, my primary focus remains on AI/ML and innovative software solutions.
 
@@ -31,6 +31,14 @@ I am a passionate software engineer specializing in Artificial Intelligence and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-christopher-2330a1327/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunchristopher2004@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arjun_christopher_)
+
+</div>
+
+## GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=arjun-christopher&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
