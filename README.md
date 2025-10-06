@@ -34,14 +34,6 @@ I am a passionate software engineer specializing in Artificial Intelligence and 
 
 </div>
 
-## GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=arjun-christopher&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ## Tech Stack & Tools
 
 ### Programming Languages
