@@ -15,8 +15,6 @@
 ![Followers](https://img.shields.io/github/followers/arjun-christopher?style=for-the-badge&color=1B3B6F&labelColor=00D9FF&logo=github)
 ![Stars](https://img.shields.io/github/stars/arjun-christopher?style=for-the-badge&color=1B3B6F&labelColor=00D9FF&logo=github)
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/arjun-christopher&query=$.public_repos&label=Repositories&style=for-the-badge&color=1B3B6F&labelColor=00D9FF&logo=github)
-![Years Badge](https://badges.pufler.dev/years/arjun-christopher?style=for-the-badge&color=1B3B6F&logo=github)
-![Repos Badge](https://badges.pufler.dev/repos/arjun-christopher?style=for-the-badge&color=1B3B6F&logo=github)
 
 </div>
 
