@@ -12,9 +12,9 @@
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/arjun-christopher?style=for-the-badge&color=1B3B6F&labelColor=00D9FF&logo=github)
-![Stars](https://img.shields.io/github/stars/arjun-christopher?style=for-the-badge&color=1B3B6F&labelColor=00D9FF&logo=github)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/arjun-christopher&query=$.public_repos&label=Repositories&style=for-the-badge&color=1B3B6F&labelColor=00D9FF&logo=github)
+![Followers](https://img.shields.io/github/followers/arjun-christopher?style=for-the-badge&color=1B3B6F&labelColor=00D9FF)
+![Stars](https://img.shields.io/github/stars/arjun-christopher?style=for-the-badge&color=1B3B6F&labelColor=00D9FF)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/arjun-christopher&query=$.public_repos&label=Repositories&style=for-the-badge&color=1B3B6F&labelColor=00D9FF)
 
 </div>
 
