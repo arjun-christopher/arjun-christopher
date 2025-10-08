@@ -83,10 +83,15 @@ I am a passionate software engineer specializing in Artificial Intelligence and 
 
 <div align="center">
 
-![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjun-christopher&theme=github_dark)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjun-christopher&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/arjun-christopher)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjun-christopher&theme=github_dark&border_color=ffffff" alt="Profile Summary" style="border:2px solid #fff; border-radius:8px; margin:8px;" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-christopher&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/arjun-christopher)
+<a href="https://github.com/arjun-christopher">
+	<img src="https://github-readme-stats.vercel.app/api?username=arjun-christopher&show_icons=true&theme=radical&hide_border=false&border_color=ffffff&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" style="border:2px solid #fff; border-radius:8px; margin:8px;" />
+</a>
+
+<a href="https://github.com/arjun-christopher">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-christopher&layout=compact&theme=radical&hide_border=false&border_color=ffffff&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" style="border:2px solid #fff; border-radius:8px; margin:8px;" />
+</a>
 
 </div>
