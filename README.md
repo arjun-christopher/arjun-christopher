@@ -83,10 +83,10 @@ I am a passionate software engineer specializing in Artificial Intelligence and 
 
 <div align="center">
 
-![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjun-christopher&theme=github_dark&border_color=808080)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjun-christopher&show_icons=true&theme=transparent&count_private=true)](https://github.com/arjun-christopher)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjun-christopher&show_icons=true&theme=radical&hide_border=false&border_color=808080&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/arjun-christopher)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-christopher&layout=compact&theme=transparent)](https://github.com/arjun-christopher)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-christopher&layout=compact&theme=radical&hide_border=false&border_color=808080&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/arjun-christopher)
+[![GitHub Streak](https://streak-stats.demolab.com?user=arjun-christopher&theme=transparent)](https://git.io/streak-stats)
 
 </div>
