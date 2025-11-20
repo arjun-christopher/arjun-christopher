@@ -87,6 +87,4 @@ I am a passionate software engineer specializing in Artificial Intelligence and 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-christopher&layout=compact&theme=transparent)](https://github.com/arjun-christopher)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=arjun-christopher&theme=transparent)](https://git.io/streak-stats)
-
 </div>
