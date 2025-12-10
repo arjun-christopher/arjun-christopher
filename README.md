@@ -83,10 +83,9 @@ I am a passionate software engineer specializing in Artificial Intelligence and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arjun-christopher&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-christopher&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com/?user=arjun-christopher&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+<a href="https://github.com/arjun-christopher">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arjun-christopher&show_icons=true&include_all_commits=true&count_private=true&bg_color=0a192f&title_color=00D9FF&icon_color=00D9FF&text_color=8892b0&border_color=1B3B6F&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arjun-christopher&layout=compact&langs_count=8&bg_color=0a192f&title_color=00D9FF&text_color=8892b0&border_color=1B3B6F&hide_border=false"/>
+</a>
 
 </div>
