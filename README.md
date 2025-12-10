@@ -83,8 +83,10 @@ I am a passionate software engineer specializing in Artificial Intelligence and 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjun-christopher&show_icons=true&theme=transparent&count_private=true)](https://github.com/arjun-christopher)
+<img src="https://github-readme-stats.vercel.app/api?username=arjun-christopher&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" alt="GitHub Stats" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-christopher&layout=compact&theme=transparent)](https://github.com/arjun-christopher)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-christopher&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=arjun-christopher&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
 </div>
