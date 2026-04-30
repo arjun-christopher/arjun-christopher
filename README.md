@@ -20,8 +20,6 @@
 
 ## About Me
 
-> **Final Year B.Tech IT Student at Puducherry Technological University**
-
 I am a passionate software engineer specializing in Artificial Intelligence and Machine Learning, with a strong interest in emerging technologies. I focus on building scalable solutions and exploring rapid development with AI-powered tools. While I am learning Unity game development at a tutorial level as a creative pursuit, my primary focus remains on AI/ML and innovative software solutions.
 
 ## Connect With Me
@@ -31,6 +29,7 @@ I am a passionate software engineer specializing in Artificial Intelligence and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-christopher-2330a1327/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunchristopher2004@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arjun_christopher_)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1282980143240843328)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arjunchristopher)
 
 </div>
@@ -75,6 +74,7 @@ I am a passionate software engineer specializing in Artificial Intelligence and 
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
