@@ -20,7 +20,7 @@
 
 ## About Me
 
-I am a passionate software engineer specializing in Artificial Intelligence and Machine Learning, with a strong interest in emerging technologies. I focus on building scalable solutions and exploring rapid development with AI-powered tools. While I am learning Unity game development at a tutorial level as a creative pursuit, my primary focus remains on AI/ML and innovative software solutions.
+I am a passionate software engineer with a Bachelor's degree in Information Technology, driven by a strong interest in emerging technologies and innovative software solutions. I focus on building scalable applications, exploring artificial intelligence, and leveraging AI-powered tools for rapid development. While I am learning Unity game development at a tutorial level as a creative pursuit, my primary focus remains on software engineering, AI-driven systems, and modern technology solutions.
 
 ## Connect With Me
 
