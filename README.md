@@ -14,7 +14,7 @@
 
 ![Followers](https://img.shields.io/github/followers/arjun-christopher?style=for-the-badge&color=1B3B6F&labelColor=00D9FF)
 ![Stars](https://img.shields.io/github/stars/arjun-christopher?style=for-the-badge&color=1B3B6F&labelColor=00D9FF)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjun-christopher&show_icons=true&theme=github_dark)
+
 </div>
 
 ## About Me
