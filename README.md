@@ -10,15 +10,6 @@
 
 </p>
 
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/arjun-christopher?style=for-the-badge&logo=github&color=1B3B6F&labelColor=00D9FF)
-![Stars](https://img.shields.io/github/stars/arjun-christopher?style=for-the-badge&logo=github&color=1B3B6F&labelColor=00D9FF)
-![Profile Views](https://komarev.com/ghpvc/?username=arjun-christopher&style=for-the-badge&color=1B3B6F)
-![GitHub User's stars](https://img.shields.io/github/stars/arjun-christopher?affiliations=OWNER&style=for-the-badge)
-
-</div>
-
 ## About Me
 
 I am a passionate software engineer with a Bachelor's degree in Information Technology, driven by a strong interest in emerging technologies and innovative software solutions. I focus on building scalable applications, exploring artificial intelligence, and leveraging AI-powered tools for rapid development. While I am learning Unity game development at a tutorial level as a creative pursuit, my primary focus remains on software engineering, AI-driven systems, and modern technology solutions.
