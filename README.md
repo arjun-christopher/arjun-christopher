@@ -14,7 +14,7 @@
 
 ![Followers](https://img.shields.io/github/followers/arjun-christopher?style=for-the-badge&color=1B3B6F&labelColor=00D9FF)
 ![Stars](https://img.shields.io/github/stars/arjun-christopher?style=for-the-badge&color=1B3B6F&labelColor=00D9FF)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjun-christopher&theme=github_dark)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Farjun-christopher&query=%24.public_repos&label=Repositories&style=for-the-badge&color=1B3B6F&labelColor=00D9FF)
 
 </div>
 
