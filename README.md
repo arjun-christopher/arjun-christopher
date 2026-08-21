@@ -79,27 +79,26 @@ I am a passionate software engineer with a Bachelor's degree in Information Tech
 
 <div align="center">
 
-<!-- GitHub Trophies -->
+<!-- GitHub Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjun-christopher&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&area_color=1F6FEB&hide_border=true&radius=10" width="100%" />
+
+<br/>
+
+<!-- GitHub Stats and Top Languages -->
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=arjun-christopher&theme=algolia&no-frame=false&no-bg=true&margin-w=4&column=6"
-    alt="GitHub Trophies"
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-christopher&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB&hide_border=true&border_radius=10" 
+    height="170"
   />
 </p>
+
+<br/>
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=arjun-christopher&background=0A192F&border=1B3B6F&stroke=1B3B6F&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=CCD6F6&currStreakLabel=00D9FF&sideLabels=CCD6F6&dates=8892B0"
-    alt="GitHub Streak"
-  />
-</p>
-
-<!-- Contribution Activity Graph -->
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=arjun-christopher&bg_color=0A192F&color=CCD6F6&line=00D9FF&point=FFFFFF&area=false&custom_title=Contribution%20Activity&hide_border=false&border_color=1B3B6F"
-    alt="GitHub Contribution Graph"
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-christopher&background=0D1117&border=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=79C0FF&sideLabels=58A6FF&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" 
+    height="170"
   />
 </p>
 
