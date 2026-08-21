@@ -86,8 +86,8 @@ I am a passionate software engineer with a Bachelor's degree in Information Tech
 
 <!-- Top Languages & Contribution Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-christopher&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=arjun-christopher&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=arjun-christopher&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.azurewebsites.net/api?username=arjun-christopher&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <!-- Contribution Graph Activity -->
