@@ -79,17 +79,20 @@ I am a passionate software engineer with a Bachelor's degree in Information Tech
 
 <div align="center">
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjun-christopher&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&area_color=1F6FEB&hide_border=true&radius=10" width="100%" />
-
-<br><br>
-
+<!-- GitHub Streak Stats -->
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-christopher&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true&border_radius=10" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-christopher&theme=tokyonight&hide_border=true" alt="Arjun Christopher's GitHub Streak" />
+</p>
 
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com/?user=arjun-christopher&background=0D1117&border=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=79C0FF&sideLabels=58A6FF&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" height="170"/>
+<!-- Top Languages & Contribution Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-christopher&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arjun-christopher&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<!-- Contribution Graph Activity -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjun-christopher&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 </div>
