@@ -79,27 +79,17 @@ I am a passionate software engineer with a Bachelor's degree in Information Tech
 
 <div align="center">
 
-<!-- GitHub Contribution Graph -->
+<!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjun-christopher&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&area_color=1F6FEB&hide_border=true&radius=10" width="100%" />
 
-<br/>
+<br><br>
 
-<!-- GitHub Stats and Top Languages -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-christopher&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB&hide_border=true&border_radius=10" 
-    height="170"
-  />
-</p>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-christopher&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true&border_radius=10" height="170"/>
 
-<br/>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-christopher&background=0D1117&border=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=79C0FF&sideLabels=58A6FF&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" 
-    height="170"
-  />
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com/?user=arjun-christopher&background=0D1117&border=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=79C0FF&sideLabels=58A6FF&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" height="170"/>
 </p>
 
 </div>
