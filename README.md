@@ -80,8 +80,11 @@ I am a passionate software engineer with a Bachelor's degree in Information Tech
 <div align="center">
 
 <a href="https://github.com/arjun-christopher">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arjun-christopher&show_icons=true&include_all_commits=true&count_private=true&bg_color=0a192f&title_color=00D9FF&icon_color=00D9FF&text_color=8892b0&border_color=1B3B6F&hide_border=false"/><br>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arjun-christopher&layout=compact&langs_count=8&bg_color=0a192f&title_color=00D9FF&text_color=8892b0&border_color=1B3B6F&hide_border=false"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=arjun-christopher&show_icons=true&include_all_commits=true&count_private=true&bg_color=0a192f&title_color=00D9FF&icon_color=00D9FF&text_color=8892b0&border_color=1B3B6F&hide_border=false&cache_seconds=86400"/>
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-christopher&layout=compact&langs_count=8&bg_color=0a192f&title_color=00D9FF&text_color=8892b0&border_color=1B3B6F&hide_border=false&cache_seconds=86400"/>
 </a>
 
 </div>
